@@ -1,6 +1,6 @@
 # SoundBall Fútbol 5
 
-Juego de fútbol 5 que se juega **con el oído**, accesible con lector de pantalla (NVDA).
+Fútbol 5 en tiempo real con sonido 3D, narrador y modo mánager. Accesible con lector de pantalla (NVDA).
 Partidos en tiempo real con sonido 3D, narrador y comentarista, y modo mánager con liga, copa, Copa Continental y selecciones.
 
 **Versión de prueba** (acceso para testers).

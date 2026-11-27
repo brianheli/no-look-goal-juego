@@ -1,6 +1,6 @@
 # SoundBall Fútbol 5
 
-Fútbol 5 en tiempo real con sonido 3D, narrador y modo mánager. Accesible con lector de pantalla (NVDA).
+Fútbol 5 en tiempo real con sonido 3D, narrador y modo mánager. Accesible con lector de pantalla.
 Partidos en tiempo real con sonido 3D, narrador y comentarista, y modo mánager con liga, copa, Copa Continental y selecciones.
 
 **Versión de prueba** (acceso para testers).
@@ -11,7 +11,7 @@ El juego se actualiza solo desde el menú: **Buscar actualización**. Tus carrer
 
 ## English
 
-Real-time 5-a-side football with 3D sound, commentators and a manager mode. Works with screen readers (NVDA).
+Real-time 5-a-side football with 3D sound, commentators and a manager mode. Works with screen readers.
 The whole game is in English and Spanish, with English commentators (American and British): choose the language in
 Settings > Idioma / Language.
 
